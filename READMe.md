@@ -1,5 +1,8 @@
 # Installation
 
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Django](https://img.shields.io/badge/django-5.0-green)
+
 [toplearn](https://toplearn.com)
 
 ![toplearn course](https://toplearn.com/img/course/400x286/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_t-sql_%D8%A7%D8%B2_%D9%85%D8%A8%D8%AA%D8%AF%DB%8C_%D8%AA%D8%A7_%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87.jpg)
